@@ -1,0 +1,25 @@
+{
+  "name": "translit55",
+  "version": "0.0.0",
+  "description": "Official Ukrainian transliteration (CMU resolution 55 of 2010), with every decision the standard leaves open written down",
+  "license": "MIT",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "exports": { ".": "./dist/index.js" },
+  "types": "./dist/index.d.ts",
+  "bin": { "translit55": "./bin/translit55.js" },
+  "files": ["dist", "bin", "corpus", "docs/register.md", "README.md"],
+  "scripts": {
+    "build": "tsc -b",
+    "typecheck": "tsc -b --force",
+    "lint": "oxlint",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "node --test test/"
+  },
+  "devDependencies": {
+    "oxlint": "1.75.0",
+    "prettier": "3.9.6",
+    "typescript": "5.9.3"
+  }
+}
