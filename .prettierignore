@@ -1,0 +1,9 @@
+# A record of a primary source: reformatting it would silently rewrite quoted material,
+# and the corpus provenance check compares against it verbatim.
+docs/research-kmu55.md
+
+# Generated from the research document by a script, not hand-formatted.
+corpus/
+
+# Deliberately malformed inputs.
+test/fixtures/
