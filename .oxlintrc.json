@@ -1,0 +1,7 @@
+{
+  "plugins": ["typescript", "oxc"],
+  "rules": {
+    "no-restricted-globals": ["error", "__dirname", "__filename"]
+  },
+  "ignorePatterns": ["dist", "test/fixtures"]
+}
