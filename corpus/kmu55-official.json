@@ -1,0 +1,542 @@
+{
+  "standard": "Постанова Кабінету Міністрів України від 27.01.2010 № 55",
+  "source_url": "https://zakon.rada.gov.ua/laws/show/55-2010-%D0%BF/print",
+  "edition": "Редакція від 12.01.2016, підстава - 1121-2015-п",
+  "licence": "Text of the resolution: CC BY 4.0 (zakon.rada.gov.ua)",
+  "extracted_from": "docs/research-kmu55.md §5.1",
+  "note": "Worked pairs printed in the resolution itself. Ground truth for conformance; never edited to match an implementation.",
+  "pairs": [
+    {
+      "n": 1,
+      "cyrillic": "Алушта",
+      "latin": "Alushta",
+      "source": "Аа row",
+      "discriminating": false
+    },
+    {
+      "n": 2,
+      "cyrillic": "Андрій",
+      "latin": "Andrii",
+      "source": "Аа row",
+      "discriminating": false
+    },
+    {
+      "n": 3,
+      "cyrillic": "Борщагівка",
+      "latin": "Borshchahivka",
+      "source": "Бб row",
+      "discriminating": false
+    },
+    {
+      "n": 4,
+      "cyrillic": "Борисенко",
+      "latin": "Borysenko",
+      "source": "Бб row",
+      "discriminating": false
+    },
+    {
+      "n": 5,
+      "cyrillic": "Вінниця",
+      "latin": "Vinnytsia",
+      "source": "Вв row",
+      "discriminating": false
+    },
+    {
+      "n": 6,
+      "cyrillic": "Володимир",
+      "latin": "Volodymyr",
+      "source": "Вв row",
+      "discriminating": false
+    },
+    {
+      "n": 7,
+      "cyrillic": "Гадяч",
+      "latin": "Hadiach",
+      "source": "Гг row",
+      "discriminating": false
+    },
+    {
+      "n": 8,
+      "cyrillic": "Богдан",
+      "latin": "Bohdan",
+      "source": "Гг row",
+      "discriminating": false
+    },
+    {
+      "n": 9,
+      "cyrillic": "Згурський",
+      "latin": "Zghurskyi",
+      "source": "Гг row",
+      "discriminating": true
+    },
+    {
+      "n": 10,
+      "cyrillic": "Ґалаґан",
+      "latin": "Galagan",
+      "source": "Ґґ row",
+      "discriminating": false
+    },
+    {
+      "n": 11,
+      "cyrillic": "Ґорґани",
+      "latin": "Gorgany",
+      "source": "Ґґ row",
+      "discriminating": false
+    },
+    {
+      "n": 12,
+      "cyrillic": "Донецьк",
+      "latin": "Donetsk",
+      "source": "Дд row",
+      "discriminating": false
+    },
+    {
+      "n": 13,
+      "cyrillic": "Дмитро",
+      "latin": "Dmytro",
+      "source": "Дд row",
+      "discriminating": false
+    },
+    {
+      "n": 14,
+      "cyrillic": "Рівне",
+      "latin": "Rivne",
+      "source": "Ее row",
+      "discriminating": false
+    },
+    {
+      "n": 15,
+      "cyrillic": "Олег",
+      "latin": "Oleh",
+      "source": "Ее row",
+      "discriminating": false
+    },
+    {
+      "n": 16,
+      "cyrillic": "Есмань",
+      "latin": "Esman",
+      "source": "Ее row",
+      "discriminating": false
+    },
+    {
+      "n": 17,
+      "cyrillic": "Єнакієве",
+      "latin": "Yenakiieve",
+      "source": "Єє row, на початку слова",
+      "discriminating": false
+    },
+    {
+      "n": 18,
+      "cyrillic": "Гаєвич",
+      "latin": "Haievych",
+      "source": "Єє row",
+      "discriminating": false
+    },
+    {
+      "n": 19,
+      "cyrillic": "Короп'є",
+      "latin": "Koropie",
+      "source": "Єє row, в інших позиціях",
+      "discriminating": true
+    },
+    {
+      "n": 20,
+      "cyrillic": "Житомир",
+      "latin": "Zhytomyr",
+      "source": "Жж row",
+      "discriminating": false
+    },
+    {
+      "n": 21,
+      "cyrillic": "Жанна",
+      "latin": "Zhanna",
+      "source": "Жж row",
+      "discriminating": false
+    },
+    {
+      "n": 22,
+      "cyrillic": "Жежелів",
+      "latin": "Zhezheliv",
+      "source": "Жж row",
+      "discriminating": false
+    },
+    {
+      "n": 23,
+      "cyrillic": "Закарпаття",
+      "latin": "Zakarpattia",
+      "source": "Зз row",
+      "discriminating": false
+    },
+    {
+      "n": 24,
+      "cyrillic": "Казимирчук",
+      "latin": "Kazymyrchuk",
+      "source": "Зз row",
+      "discriminating": false
+    },
+    {
+      "n": 25,
+      "cyrillic": "Медвин",
+      "latin": "Medvyn",
+      "source": "Ии row",
+      "discriminating": false
+    },
+    {
+      "n": 26,
+      "cyrillic": "Михайленко",
+      "latin": "Mykhailenko",
+      "source": "Ии row",
+      "discriminating": false
+    },
+    {
+      "n": 27,
+      "cyrillic": "Іванків",
+      "latin": "Ivankiv",
+      "source": "Іі row",
+      "discriminating": false
+    },
+    {
+      "n": 28,
+      "cyrillic": "Іващенко",
+      "latin": "Ivashchenko",
+      "source": "Іі row",
+      "discriminating": false
+    },
+    {
+      "n": 29,
+      "cyrillic": "Їжакевич",
+      "latin": "Yizhakevych",
+      "source": "Її row, на початку слова",
+      "discriminating": false
+    },
+    {
+      "n": 30,
+      "cyrillic": "Кадиївка",
+      "latin": "Kadyivka",
+      "source": "Її row",
+      "discriminating": false
+    },
+    {
+      "n": 31,
+      "cyrillic": "Мар'їне",
+      "latin": "Marine",
+      "source": "Її row, в інших позиціях",
+      "discriminating": true
+    },
+    {
+      "n": 32,
+      "cyrillic": "Йосипівка",
+      "latin": "Yosypivka",
+      "source": "Йй row, на початку слова",
+      "discriminating": false
+    },
+    {
+      "n": 33,
+      "cyrillic": "Стрий",
+      "latin": "Stryi",
+      "source": "Йй row",
+      "discriminating": false
+    },
+    {
+      "n": 34,
+      "cyrillic": "Олексій",
+      "latin": "Oleksii",
+      "source": "Йй row, в інших позиціях",
+      "discriminating": true
+    },
+    {
+      "n": 35,
+      "cyrillic": "Київ",
+      "latin": "Kyiv",
+      "source": "Кк row",
+      "discriminating": false
+    },
+    {
+      "n": 36,
+      "cyrillic": "Коваленко",
+      "latin": "Kovalenko",
+      "source": "Кк row",
+      "discriminating": false
+    },
+    {
+      "n": 37,
+      "cyrillic": "Лебедин",
+      "latin": "Lebedyn",
+      "source": "Лл row",
+      "discriminating": false
+    },
+    {
+      "n": 38,
+      "cyrillic": "Леонід",
+      "latin": "Leonid",
+      "source": "Лл row",
+      "discriminating": false
+    },
+    {
+      "n": 39,
+      "cyrillic": "Миколаїв",
+      "latin": "Mykolaiv",
+      "source": "Мм row",
+      "discriminating": false
+    },
+    {
+      "n": 40,
+      "cyrillic": "Маринич",
+      "latin": "Marynych",
+      "source": "Мм row",
+      "discriminating": false
+    },
+    {
+      "n": 41,
+      "cyrillic": "Ніжин",
+      "latin": "Nizhyn",
+      "source": "Нн row",
+      "discriminating": false
+    },
+    {
+      "n": 42,
+      "cyrillic": "Наталія",
+      "latin": "Nataliia",
+      "source": "Нн row",
+      "discriminating": true
+    },
+    {
+      "n": 43,
+      "cyrillic": "Одеса",
+      "latin": "Odesa",
+      "source": "Оо row",
+      "discriminating": false
+    },
+    {
+      "n": 44,
+      "cyrillic": "Онищенко",
+      "latin": "Onyshchenko",
+      "source": "Оо row",
+      "discriminating": false
+    },
+    {
+      "n": 45,
+      "cyrillic": "Полтава",
+      "latin": "Poltava",
+      "source": "Пп row",
+      "discriminating": false
+    },
+    {
+      "n": 46,
+      "cyrillic": "Петро",
+      "latin": "Petro",
+      "source": "Пп row",
+      "discriminating": false
+    },
+    {
+      "n": 47,
+      "cyrillic": "Решетилівка",
+      "latin": "Reshetylivka",
+      "source": "Рр row",
+      "discriminating": false
+    },
+    {
+      "n": 48,
+      "cyrillic": "Рибчинський",
+      "latin": "Rybchynskyi",
+      "source": "Рр row",
+      "discriminating": true
+    },
+    {
+      "n": 49,
+      "cyrillic": "Суми",
+      "latin": "Sumy",
+      "source": "Сс row",
+      "discriminating": false
+    },
+    {
+      "n": 50,
+      "cyrillic": "Соломія",
+      "latin": "Solomiia",
+      "source": "Сс row",
+      "discriminating": true
+    },
+    {
+      "n": 51,
+      "cyrillic": "Тернопіль",
+      "latin": "Ternopil",
+      "source": "Тт row",
+      "discriminating": false
+    },
+    {
+      "n": 52,
+      "cyrillic": "Троць",
+      "latin": "Trots",
+      "source": "Тт row",
+      "discriminating": false
+    },
+    {
+      "n": 53,
+      "cyrillic": "Ужгород",
+      "latin": "Uzhhorod",
+      "source": "Уу row",
+      "discriminating": false
+    },
+    {
+      "n": 54,
+      "cyrillic": "Уляна",
+      "latin": "Uliana",
+      "source": "Уу row",
+      "discriminating": false
+    },
+    {
+      "n": 55,
+      "cyrillic": "Фастів",
+      "latin": "Fastiv",
+      "source": "Фф row",
+      "discriminating": false
+    },
+    {
+      "n": 56,
+      "cyrillic": "Філіпчук",
+      "latin": "Filipchuk",
+      "source": "Фф row",
+      "discriminating": false
+    },
+    {
+      "n": 57,
+      "cyrillic": "Харків",
+      "latin": "Kharkiv",
+      "source": "Хх row",
+      "discriminating": false
+    },
+    {
+      "n": 58,
+      "cyrillic": "Христина",
+      "latin": "Khrystyna",
+      "source": "Хх row",
+      "discriminating": false
+    },
+    {
+      "n": 59,
+      "cyrillic": "Біла Церква",
+      "latin": "Bila Tserkva",
+      "source": "Цц row",
+      "discriminating": true
+    },
+    {
+      "n": 60,
+      "cyrillic": "Стеценко",
+      "latin": "Stetsenko",
+      "source": "Цц row",
+      "discriminating": false
+    },
+    {
+      "n": 61,
+      "cyrillic": "Чернівці",
+      "latin": "Chernivtsi",
+      "source": "Чч row",
+      "discriminating": false
+    },
+    {
+      "n": 62,
+      "cyrillic": "Шевченко",
+      "latin": "Shevchenko",
+      "source": "Чч row",
+      "discriminating": false
+    },
+    {
+      "n": 63,
+      "cyrillic": "Шостка",
+      "latin": "Shostka",
+      "source": "Шш row",
+      "discriminating": false
+    },
+    {
+      "n": 64,
+      "cyrillic": "Кишеньки",
+      "latin": "Kyshenky",
+      "source": "Шш row",
+      "discriminating": false
+    },
+    {
+      "n": 65,
+      "cyrillic": "Щербухи",
+      "latin": "Shcherbukhy",
+      "source": "Щщ row",
+      "discriminating": false
+    },
+    {
+      "n": 66,
+      "cyrillic": "Гоща",
+      "latin": "Hoshcha",
+      "source": "Щщ row",
+      "discriminating": false
+    },
+    {
+      "n": 67,
+      "cyrillic": "Гаращенко",
+      "latin": "Harashchenko",
+      "source": "Щщ row",
+      "discriminating": true
+    },
+    {
+      "n": 68,
+      "cyrillic": "Юрій",
+      "latin": "Yurii",
+      "source": "Юю row, на початку слова",
+      "discriminating": false
+    },
+    {
+      "n": 69,
+      "cyrillic": "Корюківка",
+      "latin": "Koriukivka",
+      "source": "Юю row",
+      "discriminating": false
+    },
+    {
+      "n": 70,
+      "cyrillic": "Яготин",
+      "latin": "Yahotyn",
+      "source": "Яя row, на початку слова",
+      "discriminating": false
+    },
+    {
+      "n": 71,
+      "cyrillic": "Ярошенко",
+      "latin": "Yaroshenko",
+      "source": "Яя row",
+      "discriminating": false
+    },
+    {
+      "n": 72,
+      "cyrillic": "Костянтин",
+      "latin": "Kostiantyn",
+      "source": "Яя row, в інших позиціях",
+      "discriminating": false
+    },
+    {
+      "n": 73,
+      "cyrillic": "Знам'янка",
+      "latin": "Znamianka",
+      "source": "Яя row",
+      "discriminating": true
+    },
+    {
+      "n": 74,
+      "cyrillic": "Феодосія",
+      "latin": "Feodosiia",
+      "source": "Яя row",
+      "discriminating": true
+    },
+    {
+      "n": 75,
+      "cyrillic": "Згорани",
+      "latin": "Zghorany",
+      "source": "Примітка 1",
+      "discriminating": false
+    },
+    {
+      "n": 76,
+      "cyrillic": "Розгон",
+      "latin": "Rozghon",
+      "source": "Примітка 1",
+      "discriminating": false
+    }
+  ]
+}
